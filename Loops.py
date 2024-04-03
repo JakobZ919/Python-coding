@@ -5,3 +5,6 @@ if __name__ == '__main__':
         a = i * i
         i+=1
         print(a)
+    #for i in range(n):
+    #    print(i*i)
+    
